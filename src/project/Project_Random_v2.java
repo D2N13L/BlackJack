@@ -5,8 +5,8 @@ import java.util.Random;
 
 public class Project_Random_v2 {
 
-    /*                                                                                                                                             
-     *This was mostly made by Daniel , With assistence from Nir and along with almog and edi 
+    /* *                                                                                                                                           
+     *  @author D2N13L
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
